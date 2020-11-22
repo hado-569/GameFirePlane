@@ -1,0 +1,4 @@
+﻿  Common_Fuc.cpp
+D:\Code C++,C#\code C++\C++_Game_2D\DemoGame2D\DemoGame2D\Common_Fuc.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Code C++,C#\code C++\C++_Game_2D\DemoGame2D\DemoGame2D\Common_Fuc.cpp(52,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DemoGame2D.vcxproj -> D:\Code C++,C#\code C++\C++_Game_2D\DemoGame2D\Debug\DemoGame2D.exe
